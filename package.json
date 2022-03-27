@@ -35,10 +35,10 @@
   "homepage": "https://github.com/zigbeer/cc-znp#readme",
   "dependencies": {
     "debug": "^2.6.9",
-    "enum": "^2.5.0",
-    "serialport": "^6.2.2",
-    "stream-browserify": "^2.0.1",
-    "unpi": "^1.1.0"
+    "enum": "^3.0.4",
+    "serialport": "^10.4.0",
+    "stream-browserify": "^3.0.0",
+    "unpi": "^1.1.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
